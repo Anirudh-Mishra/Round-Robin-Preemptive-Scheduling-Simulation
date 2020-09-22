@@ -32,6 +32,7 @@ int main()
     string name;
     int a,b,s;
     char c;
+    cout<<"\nPlease enter the program in ascending order of their arrival times!\n";
     for(int i=0;i<n;i++)
     {
         cout<<"Enter name: ";
